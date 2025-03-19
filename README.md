@@ -1,2 +1,2 @@
-* Git test
-*** test práce s Gitem
+# Git test
+### test práce s Gitem
